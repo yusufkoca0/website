@@ -3,7 +3,7 @@ title: 'Yılbaşı Gecesi'
 published: 2025-11-06
 draft: false
 description: 'Short story about renewal'
-tags: ['typescript']
+tags: ['lang-tr', 'short-story']
 ---
 
 Göğün karanlığa bulandığı bir vakitte gezintiye çıkmışlardı. Dondurucu olmayan ama insanın için ürperten cılız bir rüzgar eşliğinde, denizi sağ kanatlarına alarak yürüyorlardı. Şehre gelirken onu en çok heyecanlandıran şeye karşı şimdi kayıtsızdı. Kafasını çevirip ona bakmaktansa solunda ona eşlik eden arkadaşıyla konuşmayı tercih ediyordu. Denizin sakin ama istikrarlı sesleri bütün bu sohbete büyülü bir hava katıyordu. Hayallerin ve hayal kırıklıklarının toplamından oluşan bu sohbet yaklaşık yarım saat kadar onları oyalamayı başardı. Sohbeti bölen ve susmaya iten ilk şey, sonunda biraz oturup dinlenmelerine izin verecek boş bir bank bulmaları oldu.
