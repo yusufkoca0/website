@@ -7,6 +7,11 @@ import IconLinkedin from '~/icons/linkedin.svg'
 import IconBluesky from '~/icons/bluesky.svg'
 import IconEmail from '~/icons/email.svg'
 import IconRss from '~/icons/rss.svg'
+import IconGoodreads '~/icons/goodreads.svg'
+import IconLetterboxd '~/icons/letterboxd.svg'
+import IconTvtime '~/icons/tvtime.svg'
+import IconBackloggd '~/icons/backloggd.svg'
+import IconSpotify '~/icons/spotify.svg'
 
 interface Props {
   socialLinks: SocialLinks
@@ -16,6 +21,71 @@ const { socialLinks } = Astro.props
 ---
 
 <div class="flex w-full max-w-md items-center justify-between">
+  {
+    socialLinks.goodreads && (
+      <a
+        href={socialLinks.goodreads}
+        target="_blank"
+        rel="noopener noreferrer"
+        class="social-link"
+      >
+        <span class="sr-only">Goodreads</span>
+        <IconGoodreads class="size-7" />
+      </a>
+    )
+  }
+  {
+    socialLinks.letterboxd && (
+      <a
+        href={socialLinks.letterboxd}
+        target="_blank"
+        rel="noopener noreferrer"
+        class="social-link"
+      >
+        <span class="sr-only">Letterboxd</span>
+        <IconLetterboxd class="size-7" />
+      </a>
+    )
+  }
+  {
+    socialLinks.tvtime && (
+      <a
+        href={socialLinks.tvtime}
+        target="_blank"
+        rel="noopener noreferrer"
+        class="social-link"
+      >
+        <span class="sr-only">TV Time</span>
+        <IconTvtime class="size-7" />
+      </a>
+    )
+  }
+  {
+    socialLinks.backloggd && (
+      <a
+        href={socialLinks.backloggd}
+        target="_blank"
+        rel="noopener noreferrer"
+        class="social-link"
+      >
+        <span class="sr-only">Backloggd</span>
+        <IconBackloggd class="size-7" />
+      </a>
+    )
+  }
+  {
+    socialLinks.spotify && (
+      <a
+        href={socialLinks.spotify}
+        target="_blank"
+        rel="noopener noreferrer"
+        class="social-link"
+      >
+        <span class="sr-only">Spotify</span>
+        <IconSpotify class="size-7" />
+      </a>
+    )
+  }
   {
     socialLinks.github && (
       <a
