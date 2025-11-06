@@ -2,16 +2,16 @@ import type { SiteConfig } from '~/types'
 
 const config: SiteConfig = {
   // Absolute URL to the root of your published site, used for generating links and sitemaps.
-  site: 'https://multiterm.stelclementine.com',
+  site: 'https://vaiseria.com',
   // The name of your site, used in the title and for SEO.
-  title: 'MultiTerm',
+  title: 'Vaiseria\'s Blog',
   // The description of your site, used for SEO and RSS feed.
   description:
-    'A coder-ready Astro blog theme with 59 of your favorite color schemes to choose from',
+    'A personal blog where I share my own stories and poems',
   // The author of the site, used in the footer, SEO, and RSS feed.
-  author: 'Katy Kookaburra',
+  author: 'Vaiseria',
   // Keywords for SEO, used in the meta tags.
-  tags: ['Astro', 'Terminal', 'Theme', 'MultiTerm', 'stelcodes'],
+  tags: ['Story', 'Poem', 'Philosophy', 'Psychology', 'Metaphors'],
   // Path to the image used for generating social media previews.
   // Needs to be a square JPEG file due to limitations of the social card generator.
   // Try https://squoosh.app/ to easily convert images to JPEG.
@@ -35,19 +35,14 @@ const config: SiteConfig = {
       name: 'Archive',
       url: '/posts',
     },
-    {
-      name: 'GitHub',
-      url: 'https://github.com/stelcodes/multiterm-astro',
-      external: true,
-    },
   ],
   // The theming configuration for the site.
   themes: {
     // The theming mode. One of "single" | "select" | "light-dark-auto".
-    mode: 'select',
+    mode: 'single',
     // The default theme identifier, used when themeMode is "select" or "light-dark-auto".
     // Make sure this is one of the themes listed in `themes` or "auto" for "light-dark-auto" mode.
-    default: 'catppuccin-mocha',
+    default: 'everforest-dark',
     // Shiki themes to bundle with the site.
     // https://expressive-code.com/guides/themes/#using-bundled-themes
     // These will be used to theme the entire site along with syntax highlighting.
@@ -56,68 +51,68 @@ const config: SiteConfig = {
     //   'github-light',
     //   'github-dark',
     // ]
-    include: [
-      'andromeeda',
-      'aurora-x',
-      'ayu-dark',
-      'catppuccin-frappe',
-      'catppuccin-latte',
-      'catppuccin-macchiato',
-      'catppuccin-mocha',
-      'dark-plus',
-      'dracula',
-      'dracula-soft',
-      'everforest-dark',
-      'everforest-light',
-      'github-dark',
-      'github-dark-default',
-      'github-dark-dimmed',
-      'github-dark-high-contrast',
-      'github-light',
-      'github-light-default',
-      'github-light-high-contrast',
-      'gruvbox-dark-hard',
-      'gruvbox-dark-medium',
-      'gruvbox-dark-soft',
-      'gruvbox-light-hard',
-      'gruvbox-light-medium',
-      'gruvbox-light-soft',
-      'houston',
-      'kanagawa-dragon',
-      'kanagawa-lotus',
-      'kanagawa-wave',
-      'laserwave',
-      'light-plus',
-      'material-theme',
-      'material-theme-darker',
-      'material-theme-lighter',
-      'material-theme-ocean',
-      'material-theme-palenight',
-      'min-dark',
-      'min-light',
-      'monokai',
-      'night-owl',
-      'nord',
-      'one-dark-pro',
-      'one-light',
-      'plastic',
-      'poimandres',
-      'red',
-      'rose-pine',
-      'rose-pine-dawn',
-      'rose-pine-moon',
-      'slack-dark',
-      'slack-ochin',
-      'snazzy-light',
-      'solarized-dark',
-      'solarized-light',
-      'synthwave-84',
-      'tokyo-night',
-      'vesper',
-      'vitesse-black',
-      'vitesse-dark',
-      'vitesse-light',
-    ],
+    // include: [
+    //   'andromeeda',
+    //   'aurora-x',
+    //   'ayu-dark',
+    //   'catppuccin-frappe',
+    //   'catppuccin-latte',
+    //   'catppuccin-macchiato',
+    //   'catppuccin-mocha',
+    //   'dark-plus',
+    //   'dracula',
+    //   'dracula-soft',
+    //   'everforest-dark',
+    //   'everforest-light',
+    //   'github-dark',
+    //   'github-dark-default',
+    //   'github-dark-dimmed',
+    //   'github-dark-high-contrast',
+    //   'github-light',
+    //   'github-light-default',
+    //   'github-light-high-contrast',
+    //   'gruvbox-dark-hard',
+    //   'gruvbox-dark-medium',
+    //   'gruvbox-dark-soft',
+    //   'gruvbox-light-hard',
+    //   'gruvbox-light-medium',
+    //   'gruvbox-light-soft',
+    //   'houston',
+    //   'kanagawa-dragon',
+    //   'kanagawa-lotus',
+    //   'kanagawa-wave',
+    //   'laserwave',
+    //   'light-plus',
+    //   'material-theme',
+    //   'material-theme-darker',
+    //   'material-theme-lighter',
+    //   'material-theme-ocean',
+    //   'material-theme-palenight',
+    //   'min-dark',
+    //   'min-light',
+    //   'monokai',
+    //   'night-owl',
+    //   'nord',
+    //   'one-dark-pro',
+    //   'one-light',
+    //   'plastic',
+    //   'poimandres',
+    //   'red',
+    //   'rose-pine',
+    //   'rose-pine-dawn',
+    //   'rose-pine-moon',
+    //   'slack-dark',
+    //   'slack-ochin',
+    //   'snazzy-light',
+    //   'solarized-dark',
+    //   'solarized-light',
+    //   'synthwave-84',
+    //   'tokyo-night',
+    //   'vesper',
+    //   'vitesse-black',
+    //   'vitesse-dark',
+    //   'vitesse-light',
+    // ],
     // Optional overrides for specific themes to customize colors.
     // Their values can be either a literal color (hex, rgb, hsl) or another theme key.
     // See themeKeys list in src/types.ts for available keys to override and reference.
@@ -146,12 +141,11 @@ const config: SiteConfig = {
   },
   // Social links to display in the footer.
   socialLinks: {
-    github: 'https://github.com/stelcodes/multiterm-astro',
-    mastodon: 'https://github.com/stelcodes/multiterm-astro',
-    email: 'https://github.com/stelcodes/multiterm-astro',
-    linkedin: 'https://github.com/stelcodes/multiterm-astro',
-    bluesky: 'https://github.com/stelcodes/multiterm-astro',
-    twitter: 'https://github.com/stelcodes/multiterm-astro',
+    goodreads: 'https://www.goodreads.com/user/show/183894787-vaiseria',
+    letterboxd: 'https://letterboxd.com/Vaiseria/',
+    tvtime: 'https://letterboxd.com/Vaiseria/',
+    backloggd: 'https://backloggd.com/u/Vaiseria/',
+    spotify: 'https://open.spotify.com/user/grxn1ipr76gds9zt4csp3orzf',
     rss: true, // Set to true to include an RSS feed link in the footer
   },
   // Configuration for Giscus comments.
@@ -159,13 +153,13 @@ const config: SiteConfig = {
   // You'll need a GitHub repository with discussions enabled and the Giscus app installed.
   // Take the values from the generated script tag at https://giscus.app and fill them in here.
   // If you don't want to use Giscus, set this to undefined.
-  giscus: {
-    repo: 'stelcodes/multiterm-astro',
-    repoId: 'R_kgDOPNnBig',
-    category: 'Giscus',
-    categoryId: 'DIC_kwDOPNnBis4CteOc',
-    reactionsEnabled: true, // Enable reactions on post itself
-  },
+  // giscus: {
+  //   repo: 'stelcodes/multiterm-astro',
+  //   repoId: 'R_kgDOPNnBig',
+  //   category: 'Giscus',
+  //   categoryId: 'DIC_kwDOPNnBis4CteOc',
+  //   reactionsEnabled: true, // Enable reactions on post itself
+  // },
 }
 
 export default config
