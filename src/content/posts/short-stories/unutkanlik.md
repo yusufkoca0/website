@@ -1,0 +1,21 @@
+---
+title: 'Unutkanlık'
+published: 2025-11-06
+draft: false
+description: 'Short story about memory loss'
+tags: ['lang-tr', 'short-story']
+---
+
+Yine bir cuma akşamı. Arabama biniyorum, anahtarı takıp çalıştırıyorum. Motorun gürültüsü zihnimi bastırıyor. Cuma günleriyle aramda bir sevgi-nefret ilişkisi oluşmaya başlayalı kaç hafta olduğunu hatırlamadığımı fark ediyorum. Anayola çıkana kadar bu mübarek günün benim için nasıl lanetlendiğini düşünüyorum. Telefonumdan o bilindik numarayı çeviriyorum. Tanımadığım bir kadın açıyor, hiç duymadığım bir ses. Döngüyü kısa bir süreliğine yırtıyor: "Kim için geleceksiniz, anlıyorum, neyiniz oluyor?" Aynı sorulara aynı yanıtları veriyorum. 
+
+Bu günleri çekilebilir kılan tek şey de kışın gelmesiyle kayboluyor. Otoparka yanaştığımda hava kararmaya başlıyor. Klik sesi, farlar yanıp sönüyor, araba kilitleniyor. Otoparkta bir yabancının sigarasının dumanı, nefesinin buharıyla birlikte atmosfere karışıyor. Bana eşlik etmek isteyip istemediğimi soruyor. Reddediyorum ama sohbeti uzatmaya çalışıyor. O da buraya gelen herkes gibi. Umutsuz birinden her şeyin iyi olacağına dair bir fetva bekliyor ama nafile. Kısa kesip binaya giriyorum. Telefondaki sesi buluyorum ve beni birbirinin aynısı koridorlardan geçirip, birbirinin aynısı odalardan birisine götürüyor: 27 numaralı oda. Bir sayıya karşı nefret duyduğum yaşa gelmiş olmak içimi huzursuzlukla dolduruyor.
+
+Bir yatak, ufak bir masa, masanın üzerinde onunla uyumlu boyutlarda bir televizyon, pencerede beyaz tüller ve tüllerin arkasında solmaya başlamış çiçekler, televizyonun karşısında ise bir koltuk var. Koridorda tekerler yuvarlanıyor ve kadın bana bir sandalye getiriyor. Bu aralar sandalyeler kırılmaya başlamış, bu yüzden her odada sandalye yokmuş. Böyle bir açıklama yapıp özür dileyerek beni koltukta oturan tanıdık yüzle baş başa bırakıyor. Kafasını bana çeviriyor, ben de kafamı yere çeviriyorum. Gözler... Gözlerle hayatım boyunca sorunum olmamıştı ama onun gözleri beni rahatsız ediyor. Çünkü o görmüyor, gördüğünü hatırlamıyor. Hatırlamadığı için görmüyor.
+
+"Hoşgeldin," diyor. "Hoşbuldum," diyorum. "Seni buraya hangi rüzgar attı, üniversiteyi bırakmaya mı karar verdin," diye gülümseyerek soruyor. "Ben O değilim. Baba, abim öldü. On yıl önce," diye cevap veriyorum. Yüzü buruşuyor. Hatırlamadığını hatırlıyor. "Haklısın, haklısın. Özür dilerim." Sonra aramıza bir sessizlik giriyor. Koridorda koşturan ayak sesleri dışında aramızdaki boşluğu dolduran bir şey olmadan bekliyoruz. Bu sessizlikten tiksiniyorum. Konuşkan bir insan değilimdir, böyle anları normalde huzurlu bulurum. Aramızdaki sessizlik, sessizlik gibi hissettirmiyor. Tekerrür... Her cuma aynı gerçeği tekrar tekrar açıklamaktan ve susmaktan yorulduğumun bilincine varıyorum. Onun zihninin boşluğunda ben de boşluğa bakıyorum. Sonra söze giriyor: "Kusura bakma oğlum. Son günlerde biraz unutkanım, biliyorsun. Bu salı gününde seni evime hangi rüzgar attı?" Sorusu şakaklarımı zonklatıyor. Onu düzeltmekten vazgeçiyorum. Her günü salı sanıyor. Yeni bir güne uyanmıyor. Gelecek artık onun için yok, şu anı da yaşamıyor, geçmişi ise hatırlamıyor. Zihninin takılı kaldığı bir salı akşamında var oluyor. Ölüm perisiyle satranç oynuyor ama taşların nasıl hareket ettiğini hatırlamıyor. Peri, alay edercesine bir bir taşlarını yiyor ama mat etmiyor. "Seni özledim," diyorum. Susuyor. Gözlerini kaçırıyor. Bu son sessizlik başka bir sözü doğurmuyor.
+
+Gecenin karanlığı gökyüzünü kapladığında oradan ayrılıyorum. Aynı yabancı sigarasını tüttürüyor. Gerçi artık bir yabancı değil. Yanına yaklaşıyorum ve bir sigara rica ediyorum. Benim için çakmağını uzatıyor. Ufak bir çatırtı karanlığı bölüyor ve sigaramı yakıyorum. Annesinin hasta olduğundan bahsediyor. Bir iki gözyaşı döküyor. "Alışacaksın ve bir gün gelecek unutacaksın," diyorum. Sigaranın yarısı dururken yere atıp ayağımla söndürüyorum. “Sen unutabildin mi,” diye soruyor. “Sadece cuma akşamları hatırlıyorum.” 
+
+Yeterince kasvetli bir gün geçirdiğimi düşünerek arabama dönüyorum. Anahtarı takıyorum ve çalıştırıyorum. Motorun gürültüsü zihnimi bastırıyor. Telefonumdan o bilindik numarayı çeviriyorum. Tanıdık bir kadın açıyor: "Durumu nasıl, aynı mı, anlıyorum, eve mi geliyorsun?" Aynı sorulara aynı yanıtları veriyorum.
+
+
