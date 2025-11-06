@@ -51,7 +51,7 @@ const config: SiteConfig = {
     //   'github-light',
     //   'github-dark',
     // ]
-    // include: [
+    include: [
     //   'andromeeda',
     //   'aurora-x',
     //   'ayu-dark',
@@ -62,7 +62,7 @@ const config: SiteConfig = {
     //   'dark-plus',
     //   'dracula',
     //   'dracula-soft',
-    //   'everforest-dark',
+       'everforest-dark',
     //   'everforest-light',
     //   'github-dark',
     //   'github-dark-default',
@@ -112,7 +112,7 @@ const config: SiteConfig = {
     //   'vitesse-black',
     //   'vitesse-dark',
     //   'vitesse-light',
-    // ],
+    ],
     // Optional overrides for specific themes to customize colors.
     // Their values can be either a literal color (hex, rgb, hsl) or another theme key.
     // See themeKeys list in src/types.ts for available keys to override and reference.

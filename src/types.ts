@@ -132,6 +132,11 @@ export type SocialLinks = {
   bluesky?: string
   linkedin?: string
   email?: string
+  letterboxd?: string
+  goodreads?: string
+  backloggd?: string
+  tvtime?: string
+  spotify?: string
   rss?: boolean
 }
 
