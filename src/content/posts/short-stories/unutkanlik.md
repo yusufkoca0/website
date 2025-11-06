@@ -17,5 +17,3 @@ Bir yatak, ufak bir masa, masanın üzerinde onunla uyumlu boyutlarda bir televi
 Gecenin karanlığı gökyüzünü kapladığında oradan ayrılıyorum. Aynı yabancı sigarasını tüttürüyor. Gerçi artık bir yabancı değil. Yanına yaklaşıyorum ve bir sigara rica ediyorum. Benim için çakmağını uzatıyor. Ufak bir çatırtı karanlığı bölüyor ve sigaramı yakıyorum. Annesinin hasta olduğundan bahsediyor. Bir iki gözyaşı döküyor. "Alışacaksın ve bir gün gelecek unutacaksın," diyorum. Sigaranın yarısı dururken yere atıp ayağımla söndürüyorum. “Sen unutabildin mi,” diye soruyor. “Sadece cuma akşamları hatırlıyorum.” 
 
 Yeterince kasvetli bir gün geçirdiğimi düşünerek arabama dönüyorum. Anahtarı takıyorum ve çalıştırıyorum. Motorun gürültüsü zihnimi bastırıyor. Telefonumdan o bilindik numarayı çeviriyorum. Tanıdık bir kadın açıyor: "Durumu nasıl, aynı mı, anlıyorum, eve mi geliyorsun?" Aynı sorulara aynı yanıtları veriyorum.
-
-
