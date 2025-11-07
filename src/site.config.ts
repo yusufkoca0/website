@@ -143,7 +143,7 @@ const config: SiteConfig = {
   socialLinks: {
     goodreads: 'https://www.goodreads.com/user/show/183894787-vaiseria',
     letterboxd: 'https://letterboxd.com/Vaiseria/',
-    tvtime: 'https://letterboxd.com/Vaiseria/',
+    tvtime: 'https://tvtime.com/r/3d6Ql',
     backloggd: 'https://backloggd.com/u/Vaiseria/',
     spotify: 'https://open.spotify.com/user/grxn1ipr76gds9zt4csp3orzf',
     rss: true, // Set to true to include an RSS feed link in the footer
