@@ -6,7 +6,7 @@ description: 'Poem about a dream I remember only in bits'
 tags: ['lang-en', 'poem']
 ---
 
-PWoken up by the reminiscence of a fading moment, <br>
+Woken up by the reminiscence of a fading moment, <br>
 Vague presence of someone or something, now absent. <br>
 My eyes rolled and rolled in their sockets restlessly, <br>
 Paralysis doomed upon my body pretentiously.
