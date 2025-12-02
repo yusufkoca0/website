@@ -26,11 +26,11 @@ Of immobile paralyzed legs.
 I feel the laments <br>
 Of the first snowlakes in winter that melts, <br>
 Of the whales rotting at the bottom of the ocean, <br>
-Of the sun that repeatedly rises and sets, <br>
+Of the Sun that repeatedly rises and sets, <br>
 Of a nonbeliever's unending devotion.
 
 I feel the resentment <br>
-Of unremembered souls under the mother Earth, <br>
+Of unremembered souls under the Mother Earth, <br>
 Of the bride that was meant to die a virgin, <br>
 Of unmined diamonds with no worth, <br>
 Of the seed under solid concrete that was meant to burgeon.
