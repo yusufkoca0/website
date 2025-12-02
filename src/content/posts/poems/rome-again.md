@@ -24,7 +24,7 @@ Of visually identical twins, <br>
 Of immobile paralyzed legs.
 
 I feel the laments <br>
-Of the first snowlakes in winter that melts, <br>
+Of the first snowflakes in winter that melts, <br>
 Of the whales rotting at the bottom of the ocean, <br>
 Of the Sun that repeatedly rises and sets, <br>
 Of a nonbeliever's unending devotion.
