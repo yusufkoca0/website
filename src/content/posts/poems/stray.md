@@ -16,7 +16,7 @@ And it used to be the grave I was meant to be buried.
 
 Unilluminated by any external sources. <br>
 Yet it had this soft glow that embraced the eyes. <br>
-You could truly see in the morning <br>
+You could clearly see in the morning <br>
 But would dream some parts in the evening. <br>
 Truly a magnificent ontology <br>
 Surrounded by one's imagery.
