@@ -14,7 +14,7 @@ As if it may awaken something malign.
 
 The first trees I met greeted me with a gentle bow. <br>
 Barks covered in countless prayers of my kind. <br>
-Leaves hushed in harmony of a gentle mother. <br>
+Leaves hushed in harmony of a delicate mother. <br>
 Subtle and gentle voices lingered in my mind. <br>
 It was its way to confess, to mutter.
 
