@@ -7,7 +7,7 @@ tags: ['lang-en', 'poem']
 ---
 
 Oh, merciful Goddess, hear my prayer. <br>
-Nothing I do possess but my hauteur. <br>
+Nothing I do possess but my hollow stare. <br>
 I am on my knees, adjuring for forgiveness. <br>
 Won't you please, acquiesce my offerings?
 
@@ -27,7 +27,7 @@ Indifferent conscience, stands unmoved. <br>
 Let it mobilize, forbid it to be halted.
 
 Oh, merciful Goddess, hear my prayer. <br>
-Let my good deeds and sins be expellee. <br>
+Let my good deeds and sins lose their share. <br>
 Dispose my mind, heart and soul away. <br>
 Let me rebirth and depart on a newly found pathway.
 
