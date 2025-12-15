@@ -7,7 +7,7 @@ tags: ['lang-en', 'poem']
 ---
 
 Oh, merciful Goddess, hear my prayer. <br>
-Nothing I do possess but my hauter. <br>
+Nothing I do possess but my hauteur. <br>
 I am on my knees, adjuring for forgiveness. <br>
 Won't you please, acquiesce my offerings?
 
