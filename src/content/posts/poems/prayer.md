@@ -13,7 +13,7 @@ Won't you please, acquiesce my offerings?
 
 Untie the tangles of my mind, exceeding over my head. <br>
 It is nothing like my kind, poisoned by lead. <br>
-Futile thoughts floating, pluming themselves upon. <br>
+Futile thoughts floating, pluming themselves on. <br>
 Give them meaning, ground them down.
 
 Lift up my trampled heart, lying on the floor. <br>
