@@ -122,13 +122,13 @@ And mistook it for rejection.
 
 Perhaps this is all that life is about. <br>
 To arrive softly, <br>
-as if not to disturb the air. <br>
+As if not to disturb the air. <br>
 To leave gently, <br>
-as though nothing changed. <br>
+As though nothing changed. <br>
 To speak in lowered tones, <br>
-to listen more than breathe. <br>
+To listen more than breathe. <br>
 To disappear so completely <br>
-even silence forgets my name.
+Even silence forgets my name.
 
 
 
