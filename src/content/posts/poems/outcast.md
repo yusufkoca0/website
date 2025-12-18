@@ -105,7 +105,7 @@ Smell after rain.
 Conversations waited my silence. <br>
 Jokes recoiled from my laughter. <br>
 Skins were wounded by my touch. <br>
-Souls felt stained with my existence.
+Souls felt tainted with my existence.
 
 I learned that my presence <br>
 Relied solely on my absence.
