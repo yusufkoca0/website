@@ -40,6 +40,9 @@ Pulled chairs to the tables never reserved. <br>
 Entered through doors never opened. <br>
 Spoke to minds never responded.
 
+I imagine being expected <br>
+Never welcomed.
+
 They would call me many things. <br>
 I could hear their echoes. <br>
 None sounded like my name.
@@ -111,9 +114,6 @@ I learned that there is no casket for my body. <br>
 No water to rinse my sins away. <br>
 No prayer to relieve my pain. <br>
 No dirt that would take me in.
-
-I imagine being expected <br>
-Never welcomed.
 
 Perhaps that belonging <br>
 Has never belonged to me. <br>
