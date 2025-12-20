@@ -28,7 +28,7 @@ For certainty.
 
 Forgive me Father, <br>
 Forgive me... <br>
-I still find him in every silence, <br>
+I still find him occupying every silence, <br>
 I still hear his name in every incomplete sentence.
 
 I confess, <br>
