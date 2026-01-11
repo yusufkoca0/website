@@ -43,7 +43,7 @@ That feel not like a wound. <br>
 Bestow me laughter, <br>
 That feel not like a guard. <br>
 Bestow me rest, <br>
-That feel not like surrender.
+That feel not like a surrender.
 
 Lord, I do not know how to pray <br>
 Accept my attempt of faith.
