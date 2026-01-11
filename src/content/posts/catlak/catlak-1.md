@@ -1,8 +1,8 @@
 ---
-title: 'Çatlak - I'
+title: 'Çatlak #1'
 published: 2026-01-06
 draft: false
-description: 'Novella about a crack on a wall'
+description: 'First entry of a novella about a crack on a wall'
 tags: ['lang-tr', 'novella', 'çatlak']
 ---
 
