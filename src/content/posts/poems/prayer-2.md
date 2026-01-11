@@ -10,14 +10,14 @@ Lord, before you I kneel <br>
 In a structure not so well <br>
 As I never had time to learn <br>
 How to upturn. <br>
-On this day of calendar <br>
+On this day of the calendar <br>
 With open palms I surrender.
 
 I ask thee to teach me <br>
 How to change gently.
 
 Like how my fingers <br>
-Learned to unclench a fist <br>
+Learned to unclench fists <br>
 To embracing hands, <br>
 Finger by trembling finger.
 
