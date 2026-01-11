@@ -1,6 +1,6 @@
 ---
 title: 'Prayer #2'
-published: 2025-01-11
+published: 2026-01-11
 draft: false
 description: 'Even I do pray from time to time'
 tags: ['lang-en', 'poem']
