@@ -40,7 +40,3 @@ The edge that once did bestowe thee thy birth <br>
 Will that loosen thy bond to earth? <br>
 If peace be upon thee to take or leave <br>
 Why must it be thyself, thou dost unweave?
-
-
-
-
