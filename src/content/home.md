@@ -1,7 +1,7 @@
 ---
 avatarImage:
   src: './avatar.jpg'
-  alt: 'My avatar'
+  alt: 'MyAvatar'
 githubCalendar: 'yusufkoca0'
 ---
 
