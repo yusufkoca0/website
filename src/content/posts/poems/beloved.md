@@ -31,9 +31,9 @@ And whose heart to intimidate? <br>
 How much shame you wear <br>
 As a medal of honor unaware?
 
-What stains those sacred hands
-And the truth your tongue bends?
-What divine imagery you project
+What stains those sacred hands <br>
+And the truth your tongue bends? <br>
+What divine imagery you project <br>
 In an attempt to deny and reject?
 
 What altar asks for such price, <br>
